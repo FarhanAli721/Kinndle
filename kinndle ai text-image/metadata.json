@@ -1,0 +1,6 @@
+{
+  "name": "KINNDLE",
+  "description": "Ultra-modern, cinematic AI image-generation creative studio powered by the KINNDLE agent. Imagine it. Create it.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
